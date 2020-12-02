@@ -99,7 +99,7 @@ class Rectangles():
     pyr_base_area = l * w
     return f'The base area is {pyr_base_area}. The surface area is {pyr_surface_area}, the lateral surface area is {pyr_lateral_surface_area}, and the volume is {pyr_volume}.'
 
-x = x
+x = 1
 while x != 'stop':
   x = str(input("\nWhat shape do you want to solve?\n"))
   if x.lower() == 'rectangle':

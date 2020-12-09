@@ -8,7 +8,7 @@ Original file is located at
 
 '''
 This is a geometic calculator. It will ask you for the numer needed and then return an answer with the area, perimeter, 
-surface area, ect. To solve a shape run all the cells then in the bottom cell and then put in the valuse when prompted. The shapes it can 
+surface area, ect. To solve a shape run all the cells then in the bottom cell and then put in the values when prompted. The shapes it can 
 solve are circle, cone, cylinder, triangle, rectangle, cube, rectangular prisim and a pyramid. Type stop if you don't want any more shape/solutions. If you want a reminder of what the shapes are type anything that isn't a name of one of the shapes.
 '''
 """
